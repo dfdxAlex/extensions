@@ -1,0 +1,92 @@
+@charset "UTF-8";
+body {
+  background-image: url("../images/image.jpeg");
+  background-size: 100%;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+
+/*Стили верхнего меню*/
+.imagesMapaMenuUp {
+  margin-top: 10px;
+  margin-left: 5px;
+}
+
+.imagesMapaMenuUp .imagesMapaMenuUp-div {
+  margin-top: 10px;
+  margin-left: 5px;
+  height: 50px;
+}
+
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp1, .imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp4,
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp13, .imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp16,
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp19, .imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp22,
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp25, .imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp28 {
+  border: 1px solid;
+  margin-left: 2px;
+  float: left;
+}
+
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimageWidth7, .imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimageHeight10 {
+  border: 1px solid;
+  margin-left: 20px;
+  height: 38px;
+  width: 60px;
+  text-align: center;
+  float: left;
+}
+
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimageHeight10 {
+  margin-left: 5px;
+}
+
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp19 {
+  margin-left: 20px;
+}
+
+.imagesMapaMenuUp .imagesMapaMenuUp-div .imagesMapaMenuUpimagesMapaMenuUp25 {
+  margin-left: 20px;
+}
+
+/***************************************/
+/*Меню загрузки картинки*/
+.imagesMapaLoadFiles {
+  margin-top: 50px;
+  margin-left: 300px;
+  width: 100%;
+  color: #f4fcfc;
+}
+
+.imagesMapaLoadFiles .imagesMapaLoadFiles-label {
+  border: 1px solid;
+  margin-right: 30px;
+  color: #f4fcfc;
+}
+
+.imagesMapaLoadFiles .imagesMapaLoadFiles-button {
+  border: 1px solid;
+  color: #f4fcfc;
+}
+
+/************************/
+/*Стилизация кнопки-картинки для стилизаци*/
+.imagesMapaImageButton-div {
+  border: 1px solid;
+  margin-top: 10px;
+  margin-bottom: 50px;
+  width: 100%;
+  height: auto;
+}
+
+.imagesMapaImageButton-div form .imagesMapaImageButton-button {
+  padding-top: 1px;
+}
+
+.imagesMapaImageButton-div form .imagesMapaImageButton-div-klac {
+  padding-right: 1px;
+  width: 100%;
+  height: 100%;
+  word-wrap: break-word;
+  background: #a39393;
+}
+/*# sourceMappingURL=imagesmapa.css.map */
